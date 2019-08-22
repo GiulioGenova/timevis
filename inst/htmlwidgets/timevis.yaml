@@ -1,4 +1,9 @@
 dependencies:
+  - name: moment
+    version: 2.24.0
+    src: htmlwidgets/
+    script: moment-with-locales.min.js
+
   - name: vis
     version: 4.16.1
     src: htmlwidgets/lib/vis-4.16.1
